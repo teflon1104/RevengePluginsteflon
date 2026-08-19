@@ -1,0 +1,11 @@
+{
+  "name": "MEE6 Timer",
+  "description": "Odlicza 60s po wysłaniu wiadomości",
+  "authors": [
+    {
+      "name": "teflon",
+      "id": "0"
+    }
+  ],
+  "main": "index.ts"
+}
